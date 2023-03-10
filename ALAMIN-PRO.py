@@ -3,7 +3,7 @@ import os, sys
 
 try:
 
-    __import__("ALAMIN").menu()
+    __import__("ALAMIN").rsbuy()
 
 except Exception as e:
 
